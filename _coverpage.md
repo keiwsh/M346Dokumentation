@@ -4,5 +4,4 @@
 
 > Dokumentation für Modul 346: Cloud Lösungen konzipieren und realisieren
 
-
-[GitHub](https://github.com/user/keiwsh)
+[GitHub](https://github.com/keiwsh)
